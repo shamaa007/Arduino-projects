@@ -15,7 +15,7 @@ This repository contains my Arduino mini projects.
 
 ## Files
 - Code: [Radar code](Radar-System/media/diyRadar.ino)
-- Image: ![image setup](Radar-System/media/Radar_image.jpg)
+- Image: ![image setup](Radar-System/media/Radar_image.jpeg)
 - Video: [watch demo](Radar-System/media/RadarWithArduino.mp4)
 
 ---
